@@ -18,8 +18,3 @@ If you’re prepared to help out, please fork the repo and fill in any necessary
   - [Redis crashing](./redis-bug.md)
 
 
-Contact Information:
-
-Email: office@litespeed.me
-
-Telegram: @LiteeeDev
